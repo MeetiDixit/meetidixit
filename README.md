@@ -1,4 +1,4 @@
-# Meeti Dixit
+# Hi, I am Meeti
 
 
 #### MS in Computer Science at Rochester Institute of Technology with thesis in Machine Learning
