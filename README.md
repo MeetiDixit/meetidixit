@@ -1,12 +1,12 @@
 # Hi, I am Meeti
 
+![](https://komarev.com/ghpvc/?username=your-github-prajwalpatankar&color=blueviolet)
 
 #### MS in Computer Science at Rochester Institute of Technology with thesis in Machine Learning
 
 #### Actively seeking Summer '24/ Full Time Opportunities as a Data Analyst/ Data Engineer/ Associate ML engineer
 
-
-<!--[![Meeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetidixit)](https://github.com/meetidixt/github-readme-stats) -->
+<!--[![Meeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetidixit)](https://github.com/meetidixt/github-readme-stats)-->
 
 <!--<a href="https://github.com/meetidixit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetidixit&theme=cobalt&langs_count=8&layout=compact" />
