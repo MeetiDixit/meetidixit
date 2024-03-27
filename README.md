@@ -1,6 +1,6 @@
 # Hi, I am Meeti
 
-![](https://komarev.com/ghpvc/?username=your-github-meetidixit&color=blueviolet)
+<!--![](https://komarev.com/ghpvc/?username=your-github-meetidixit&color=blueviolet)-->
 
 #### MS in Computer Science at Rochester Institute of Technology with thesis in Machine Learning
 
