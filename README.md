@@ -4,7 +4,7 @@
 
 #### MS in Computer Science at Rochester Institute of Technology with thesis in Machine Learning
 
-#### Actively seeking Summer '24/ Full Time Opportunities as a Data Analyst/ Data Engineer/ Associate ML engineer
+#### Software Engineer with 3+ yrs of experience in e-commerce
 
 <!--[![Meeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetidixit)](https://github.com/meetidixt/github-readme-stats)-->
 
